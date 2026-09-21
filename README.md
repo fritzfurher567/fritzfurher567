@@ -9,11 +9,11 @@
 
 ```
 
-** Software Engineer**<br>
+** Software Engineer**
 
 
 
-[![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://ropage.gg/fritzfurher)
+[![Website](https://img.shields.io/badge/fritz.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://ropage.gg/fritzfurher)
 <br><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1282702007211266231?bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true)](https://discord.com/users/1282702007211266231)
 
