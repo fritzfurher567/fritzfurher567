@@ -41,7 +41,7 @@ Software Engineer making Websites, Discord Bots, and Games.
 
 - [Nexus ↗](https://nexus-allinone-bot.vercel.app/) · [GitHub ↗](https://github.com/fritzfurher567/Nexus) — All in one Discord Bot With 200+ Commands and Features with a good Website Dashboard.
 
-- [Targetly AI ↗](https://N/A) (under dev) — Very fast and powerful job search and people finder for free with sleak UI/UX dashboard.
+- [Targetly AI ↗](https://about:blank) (under dev) — Very fast and powerful job search and people finder for free with sleak UI/UX dashboard.
 
 ---
 
