@@ -29,7 +29,7 @@ Software Engineer making Websites, Discord Bots, and Games.
 
 - Freelance — **Available** 
 - Status — probably coding on one of my projects
-- [My portfolio ↗](https://ropage.gg/fritzfurher).
+- [My portfolio ↗](https://fritz.is-a.dev).
 
 ---
 
